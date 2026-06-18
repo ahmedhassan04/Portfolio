@@ -636,7 +636,6 @@
       background: var(--cyan);
       box-shadow: 0 0 6px var(--cyan);
     }
-
     /* ─── RESPONSIVE ─── */
     @media (max-width: 768px) {
       nav { padding: 0 4%; }

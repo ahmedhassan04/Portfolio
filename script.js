@@ -21,7 +21,7 @@
     setTimeout(type, deleting ? 45 : 80);
   }
   type();
-
+  
   // Scroll fade-in
   const obs = new IntersectionObserver(entries => {
     entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
