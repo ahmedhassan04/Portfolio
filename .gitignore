@@ -1,0 +1,11 @@
+# Ignore archives
+*.zip
+*.rar
+*.7z
+
+# Ignore screenshots and heavy media inside the practice folder
+practice/*.png
+practice/*.jpg
+
+# Ignore temporary editor files
+Untitled-1.html
